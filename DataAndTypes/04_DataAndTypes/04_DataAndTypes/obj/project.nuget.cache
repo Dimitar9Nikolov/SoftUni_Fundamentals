@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xd0/RV0fhpR4Lnx5dHCz5AHieZycEbhKFui/4wF196BhcYrpoIF0Et9/99/9AWteHv2I80aCdNH0MGcoclcqsw==",
+  "success": true,
+  "projectFilePath": "/Users/dimitar/SoftUni_Fundamentals/DataAndTypes/04_DataAndTypes/04_DataAndTypes/04_DataAndTypes.csproj",
+  "expectedPackageFiles": [
+    "/Users/dimitar/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/dimitar/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.31/microsoft.netcore.app.host.osx-x64.6.0.31.nupkg.sha512",
+    "/Users/dimitar/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

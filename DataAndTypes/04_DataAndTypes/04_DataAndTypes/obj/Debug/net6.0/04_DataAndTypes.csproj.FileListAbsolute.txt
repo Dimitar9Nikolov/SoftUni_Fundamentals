@@ -1,0 +1,15 @@
+/Users/dimitar/SoftUni_Fundamentals/DataAndTypes/04_DataAndTypes/04_DataAndTypes/bin/Debug/net6.0/04_DataAndTypes
+/Users/dimitar/SoftUni_Fundamentals/DataAndTypes/04_DataAndTypes/04_DataAndTypes/bin/Debug/net6.0/04_DataAndTypes.deps.json
+/Users/dimitar/SoftUni_Fundamentals/DataAndTypes/04_DataAndTypes/04_DataAndTypes/bin/Debug/net6.0/04_DataAndTypes.runtimeconfig.json
+/Users/dimitar/SoftUni_Fundamentals/DataAndTypes/04_DataAndTypes/04_DataAndTypes/bin/Debug/net6.0/04_DataAndTypes.dll
+/Users/dimitar/SoftUni_Fundamentals/DataAndTypes/04_DataAndTypes/04_DataAndTypes/bin/Debug/net6.0/04_DataAndTypes.pdb
+/Users/dimitar/SoftUni_Fundamentals/DataAndTypes/04_DataAndTypes/04_DataAndTypes/obj/Debug/net6.0/04_DataAndTypes.csproj.AssemblyReference.cache
+/Users/dimitar/SoftUni_Fundamentals/DataAndTypes/04_DataAndTypes/04_DataAndTypes/obj/Debug/net6.0/04_DataAndTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dimitar/SoftUni_Fundamentals/DataAndTypes/04_DataAndTypes/04_DataAndTypes/obj/Debug/net6.0/04_DataAndTypes.AssemblyInfoInputs.cache
+/Users/dimitar/SoftUni_Fundamentals/DataAndTypes/04_DataAndTypes/04_DataAndTypes/obj/Debug/net6.0/04_DataAndTypes.AssemblyInfo.cs
+/Users/dimitar/SoftUni_Fundamentals/DataAndTypes/04_DataAndTypes/04_DataAndTypes/obj/Debug/net6.0/04_DataAndTypes.csproj.CoreCompileInputs.cache
+/Users/dimitar/SoftUni_Fundamentals/DataAndTypes/04_DataAndTypes/04_DataAndTypes/obj/Debug/net6.0/04_DataAndTypes.dll
+/Users/dimitar/SoftUni_Fundamentals/DataAndTypes/04_DataAndTypes/04_DataAndTypes/obj/Debug/net6.0/refint/04_DataAndTypes.dll
+/Users/dimitar/SoftUni_Fundamentals/DataAndTypes/04_DataAndTypes/04_DataAndTypes/obj/Debug/net6.0/04_DataAndTypes.pdb
+/Users/dimitar/SoftUni_Fundamentals/DataAndTypes/04_DataAndTypes/04_DataAndTypes/obj/Debug/net6.0/04_DataAndTypes.genruntimeconfig.cache
+/Users/dimitar/SoftUni_Fundamentals/DataAndTypes/04_DataAndTypes/04_DataAndTypes/obj/Debug/net6.0/ref/04_DataAndTypes.dll
